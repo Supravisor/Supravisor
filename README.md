@@ -10,7 +10,7 @@
 
 [![Supravisor's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supravisor)](https://github.com/Supravisor/github-readme-stats)
 
-##Projects
+## Projects
 
 [https://supravisor.github.io/Redux-Editor-Legacy/](Text editor for Redux Legacy)
 
