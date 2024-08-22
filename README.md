@@ -10,6 +10,10 @@
 
 [![Supravisor's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supravisor)](https://github.com/Supravisor/github-readme-stats)
 
+##Projects
+
+[https://supravisor.github.io/Redux-Editor-Legacy/](Text editor for Redux Legacy)
+
 <!---
 Supravisor/Supravisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
