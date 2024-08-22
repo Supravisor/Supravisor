@@ -12,7 +12,7 @@
 
 ## Projects
 
-[[https://supravisor.github.io/Redux-Editor-Legacy/](Text editor for Redux Legacy)]
+-[Text editor for Redux Legacy](https://supravisor.github.io/Redux-Editor-Legacy/)
 
 <!---
 Supravisor/Supravisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
