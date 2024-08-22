@@ -13,8 +13,8 @@
 ## Projects
 
 * [Markup Previewer](https://github.com/Supravisor/Markup-Previewer)
-* [Text editor for Redux Legacy](https://supravisor.github.io/Redux-Editor-Legacy/)
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
+* [Text editor for Redux Legacy](https://supravisor.github.io/Redux-Editor-Legacy/)
 
 <!---
 Supravisor/Supravisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
