@@ -15,7 +15,7 @@
 * [Markup Previewer](https://github.com/Supravisor/Markup-Previewer)
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
-* [Text editor for Redux Legacy](https://supravisor.github.io/Redux-Editor-Legacy/)
+* [Text editor for Redux Legacy](https://github.com/Supravisor/Redux-Editor-Legacy)
 
 ## Current project
 
