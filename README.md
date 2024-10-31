@@ -19,7 +19,8 @@
 
 ## Current project
 
-* [GitPod Forecast Usage](https://supravisor.github.io/Gitpod-Forecast-Usage/)
+
+* [GitPod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 
 ## Skills
 
