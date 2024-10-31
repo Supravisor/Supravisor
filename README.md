@@ -20,7 +20,7 @@
 ## Current project
 
 
-* [GitPod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
+* [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 
 ## Skills
 
