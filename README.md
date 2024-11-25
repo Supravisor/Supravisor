@@ -16,11 +16,11 @@
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
 * [Text editor for Redux Legacy](https://github.com/Supravisor/Redux-Editor-Legacy)
 * [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
+* [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 
 ## Current project
 
-* [Symptom Checker](https://github.com/Supravisor/Symptom-Checker) Update
-
+* [Diff checker](https://github.com/Supravisor/Diff-checker)
 
 ## Skills
 
