@@ -20,7 +20,7 @@
 
 ## Current project
 
-* [Diff checker](https://github.com/Supravisor/Diff-checker)
+* [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
 
 ## Skills
 
