@@ -18,10 +18,11 @@
 * [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 * [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
+* [npm CLI Console](https://supravisor.github.io/npm-cli-console/)
 
 ## Current project
 
-* [npm CLI Console](https://supravisor.github.io/npm-cli-console/)
+* [Python Console](https://supravisor.github.io/Python_console/)
 
 ## Skills
 
