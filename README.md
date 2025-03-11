@@ -14,7 +14,7 @@
 
 * [Markup Previewer](https://github.com/Supravisor/Markup-Previewer)
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
-* [Text editor for Redux Legacy](https://github.com/Supravisor/Redux-Editor-Legacy)
+* [Redux Legacy Console](https://github.com/Supravisor/Redux-Editor-Legacy)
 * [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 * [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
