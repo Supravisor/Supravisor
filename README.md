@@ -12,9 +12,20 @@
 
 ## Projects
 
-| Consoles | |
-| - | -  |
-| [npm CLI](https://supravisor.github.io/npm-cli-console/) | [Redux Legacy](https://github.com/Supravisor/Redux-Editor-Legacy) |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Consoles</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><a href="https://supravisor.github.io/npm-cli-console/">npm CLI</a></td>
+      <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
+    </tr>
+  </tbody>
+</table>
 
 * [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
 * [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
