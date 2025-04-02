@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supravisor
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Back End Development and APIs.
+- 🌱 I’m currently learning Quality Assurance.
 - 💞️ I’m looking to collaborate on a fun project.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -12,13 +12,15 @@
 
 ## Projects
 
+| Consoles | |
+| - | -  |
+| [npm CLI](https://supravisor.github.io/npm-cli-console/) | [Redux Legacy](https://github.com/Supravisor/Redux-Editor-Legacy) |
+
+* [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
+* [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 * [Markup Previewer](https://github.com/Supravisor/Markup-Previewer)
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
-* [Redux Legacy Console](https://github.com/Supravisor/Redux-Editor-Legacy)
-* [Gitpod Forecast](https://github.com/Supravisor/Gitpod-Forecast)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
-* [Diff Viewer](https://github.com/Supravisor/Diff-viewer)
-* [npm CLI Console](https://supravisor.github.io/npm-cli-console/)
 
 ## Current project
 
