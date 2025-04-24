@@ -1,4 +1,4 @@
-- 👋 Hi `${author@Me}`, I’m @Supravisor
+- 👋 Hi `${author:@Me}`, I’m @Supravisor
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Quality Assurance.
 - 💞️ I’m looking to collaborate on a fun project.
