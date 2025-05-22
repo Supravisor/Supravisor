@@ -22,6 +22,7 @@
   <tbody>
     <tr>
       <td><a href="https://supravisor.github.io/npm-cli-console/">npm CLI</a></td>
+      <td><a href="https://supravisor.github.io/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
     </tr>
   </tbody>
@@ -34,8 +35,6 @@
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 
 ## Current project
-
-* [Python Console](https://supravisor.github.io/Python_console/)
 
 ## Skills
 
