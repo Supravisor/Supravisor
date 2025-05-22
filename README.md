@@ -15,7 +15,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2">Consoles</th>
+      <th colspan="3">Consoles</th>
     </tr>
   </thead>
 
