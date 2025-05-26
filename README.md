@@ -1,4 +1,4 @@
-- 👋 Hi I’m Supravisor
+e- 👋 Hi I’m Supravisor
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Quality Assurance.
 - 💞️ I’m looking to collaborate on a fun project.
@@ -21,8 +21,8 @@
 
   <tbody>
     <tr>
-      <td><a href="https://supravisor.github.io/npm-cli-console/">npm CLI</a></td>
-      <td><a href="https://supravisor.github.io/Python_console">Python</a></td>
+      <td><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
+      <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
     </tr>
   </tbody>
