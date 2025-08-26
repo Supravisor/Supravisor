@@ -33,7 +33,7 @@
 * [Markup Previewer](https://github.com/Supravisor/Markup-Previewer)
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
-* [Portfolio](https://supravisor.github.io/Portfolio/)
+* [Portfolio](https://github.com/Supravisor/Portfolio)
 
 ## Current project
 * [Perpetual calendar](https://supravisor.github.io/Perpetual-calendar/)
