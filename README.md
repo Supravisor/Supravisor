@@ -34,9 +34,10 @@
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 * [Portfolio](https://github.com/Supravisor/Portfolio)
+* [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/)
 
 ## Current project
-* [Perpetual calendar](https://supravisor.github.io/Perpetual-calendar/)
+* [Todoable](https://supravisor.github.io/Todoable/)
 
 ## Skills
 
