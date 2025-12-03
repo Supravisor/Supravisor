@@ -35,9 +35,10 @@
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 * [Portfolio](https://github.com/Supravisor/Portfolio)
 * [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/)
+* [Todoable](https://supravisor.github.io/Todoable/)
 
 ## Current project
-* [Todoable](https://supravisor.github.io/Todoable/)
+* [Pseudoku](https://github.com/Supravisor/Pseudoku)
 
 ## Skills
 
