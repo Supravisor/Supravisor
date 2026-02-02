@@ -15,7 +15,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3">Consoles</th>
+      <th colspan="4">Consoles</th>
     </tr>
   </thead>
 
@@ -24,6 +24,7 @@
       <td><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
       <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
+      <td><a href="https://supravisor.github.io/JupyterNotebook/">Jupyter Notebook</td>
     </tr>
   </tbody>
 </table>
@@ -40,7 +41,7 @@
 
 ## Current project
 
-* [Jupyter Notebook console](https://supravisor.github.io/JupyterNotebook/)
+* [NumPy array console](https://github.com/Supravisor/NumPyArray)
 
 ## Skills
 
