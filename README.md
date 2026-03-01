@@ -15,7 +15,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="4">Consoles</th>
+      <th colspan="5">Consoles</th>
     </tr>
   </thead>
 
@@ -24,7 +24,8 @@
       <td><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
       <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
-      <td><a href="https://supravisor.github.io/JupyterNotebook/">Jupyter Notebook</td>
+      <td><a href="https://github.com/Supravisor/JupyterNotebook">Jupyter Notebook</a></td>
+      <td><a href="https://github.com/Supravisor/NumPyArray">NumPy Array</a></td>
     </tr>
   </tbody>
 </table>
@@ -40,8 +41,7 @@
 * [Pseudoku](https://github.com/Supravisor/Pseudoku)
 
 ## Current project
-
-* [NumPy array console](https://github.com/Supravisor/NumPyArray)
+* [Pandas (Series) console](https://github.com/Supravisor/Pandas-Series-console)
 
 ## Skills
 
