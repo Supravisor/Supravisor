@@ -25,7 +25,7 @@
       <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
       <td><a href="https://github.com/Supravisor/JupyterNotebook">Jupyter Notebook</a></td>
-      <td><a href="https://github.com/Supravisor/NumPyArray">NumPy Array</a></td>
+      <td><a href="https://github.com/Supravisor/NumPyArray">NumPy array</a></td>
     </tr>
   </tbody>
 </table>
