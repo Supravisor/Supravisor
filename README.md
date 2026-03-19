@@ -39,9 +39,10 @@
 * [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/)
 * [Todoable](https://github.com/Supravisor/Todoable)
 * [Pseudoku](https://github.com/Supravisor/Pseudoku)
+* [Pandas (Series) console](https://github.com/Supravisor/Pandas-Series-console)
 
 ## Current project
-* [Pandas (Series) console](https://github.com/Supravisor/Pandas-Series-console)
+
 
 ## Skills
 
