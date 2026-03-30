@@ -36,7 +36,7 @@
 * [Random Quote Generator](https://github.com/Supravisor/Random-Quote-Generator)
 * [Symptom Checker](https://github.com/Supravisor/Symptom-Checker)
 * [Portfolio](https://github.com/Supravisor/Portfolio)
-* [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/)
+* [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/) [App](https://supravisor.github.io/Perpetual-calendar/)
 * [Todoable](https://github.com/Supravisor/Todoable)
 * [Pseudoku](https://github.com/Supravisor/Pseudoku)
 * [Pandas (Series) console](https://github.com/Supravisor/Pandas-Series-console)
