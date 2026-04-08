@@ -12,28 +12,27 @@
 
 ## Projects
 
+
 <table>
   <thead>
     <tr>
-      <th colspan="5">Consoles</th>
+      <th colspan="3">Consoles</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
-      <td><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
-      <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
-      <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/Python_console">Python</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Supravisor/JupyterNotebook">Jupyter Notebook</a></td>
-      <td><a href="https://github.com/Supravisor/NumPyArray">NumPy array</a></td>
-      <td></td>
+      <td colspan="2" align="center"><a href="https://github.com/Supravisor/JupyterNotebook">Jupyter Notebook</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/NumPyArray">NumPy array</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Supravisor/Pandas-Series-console">Panda (Series)</a></td>
-      <td><a href="https://github.com/Supravisor/Pandas-DataFrames-console">Pandas (DataFames)</a></td>
-      <td></td>
+      <td align="center"><a href="https://github.com/Supravisor/Pandas-Series-console">Panda (Series)</a></td>
+      <td colspan="2" align="center"><a href="https://github.com/Supravisor/Pandas-DataFrames-console">Pandas (DataFames)</a></td>
     </tr>
   </tbody>
 </table>
