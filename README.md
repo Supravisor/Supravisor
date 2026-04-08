@@ -24,8 +24,16 @@
       <td><a href="https://github.com/Supravisor/npm-cli-console/">npm CLI</a></td>
       <td><a href="https://github.com/Supravisor/Python_console">Python</a></td>
       <td><a href="https://github.com/Supravisor/Redux-Editor-Legacy">Redux Legacy</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Supravisor/JupyterNotebook">Jupyter Notebook</a></td>
       <td><a href="https://github.com/Supravisor/NumPyArray">NumPy array</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Supravisor/Pandas-Series-console">Panda (Series)</a></td>
+      <td><a href="https://github.com/Supravisor/Pandas-DataFrames-console">Pandas (DataFames)</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -39,7 +47,6 @@
 * [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/) [App](https://supravisor.github.io/Perpetual-calendar/)
 * [Todoable](https://github.com/Supravisor/Todoable)
 * [Pseudoku](https://github.com/Supravisor/Pseudoku)
-* [Pandas (Series) console](https://github.com/Supravisor/Pandas-Series-console)
 
 ## Current project
 
