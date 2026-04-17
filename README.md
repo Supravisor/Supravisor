@@ -47,7 +47,7 @@
 * [Pseudoku](https://github.com/Supravisor/Pseudoku)
 
 ## Current project
-
+* [Pandas Data Cleaning 1](https://github.com/Supravisor/Pandas-Data-Cleaning-1)
 
 ## Skills
 
