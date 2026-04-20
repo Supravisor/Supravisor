@@ -44,7 +44,7 @@
 * [Portfolio](https://github.com/Supravisor/Portfolio)
 * [Perpetual calendar](https://github.com/Supravisor/Perpetual-calendar/) [App](https://supravisor.github.io/Perpetual-calendar/)
 * [Todoable](https://github.com/Supravisor/Todoable)
-* [Pseudoku](https://github.com/Supravisor/Pseudoku)
+* [Pseudoku](https://github.com/Supravisor/Pseudoku) [App](https://supravisor.github.io/Pseudoku/)
 
 ## Current project
 * [Pandas Data Cleaning 1](https://github.com/Supravisor/Pandas-Data-Cleaning-1)
