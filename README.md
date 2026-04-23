@@ -33,6 +33,9 @@
       <td align="center"><a href="https://github.com/Supravisor/Pandas-Series-console">Panda (Series)</a></td>
       <td  align="center" colspan="2"><a href="https://github.com/Supravisor/Pandas-DataFrames-console">Pandas (DataFames)</a></td>
     </tr>
+    <tr>
+      <td align="center" colspan="3"><a href="https://github.com/Supravisor/Pandas-Data-Cleaning-1">Pandas Data Cleaning 1</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -47,7 +50,6 @@
 * [Pseudoku](https://github.com/Supravisor/Pseudoku) [App](https://supravisor.github.io/Pseudoku/)
 
 ## Current project
-* [Pandas Data Cleaning 1](https://github.com/Supravisor/Pandas-Data-Cleaning-1)
 
 ## Skills
 
