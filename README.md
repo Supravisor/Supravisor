@@ -39,6 +39,9 @@
     <tr>
       <td align="center" colspan="3"><a href="https://github.com/Supravisor/Pandas-Data-Cleaning-2">Pandas Data Cleaning 2</a></td>
     </tr>
+    <tr>
+      <td align="center" colspan="3"><a href="https://github.com/Supravisor/Pandas-Data-Cleaning-3">Pandas Data Cleaning 3</a></td>
+    </tr>
   </tbody>
 </table>
 
