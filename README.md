@@ -57,7 +57,7 @@
 
 ## Current project
 
-* [Pandas Data Cleaning 3](https://github.com/Supravisor/Pandas-Data-Cleaning-3)
+* [Relational databases](https://github.com/Supravisor/Relational_databases_1)
 
 ## Skills
 
