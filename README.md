@@ -42,6 +42,9 @@
     <tr>
       <td align="center" colspan="3"><a href="https://github.com/Supravisor/Pandas-Data-Cleaning-3">Pandas Data Cleaning 3</a></td>
     </tr>
+    <tr>
+      <td align="center" colspan="3"><a href="https://github.com/Supravisor/Relational_databases_1">Relational databases</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -57,7 +60,7 @@
 
 ## Current project
 
-* [Relational databases](https://github.com/Supravisor/Relational_databases_1)
+* [Parse HTML table](https://github.com/Supravisor/Parse_HTML_table)
 
 ## Skills
 
