@@ -43,7 +43,8 @@
       <td align="center" colspan="3"><a href="https://github.com/Supravisor/Pandas-Data-Cleaning-3">Pandas Data Cleaning 3</a></td>
     </tr>
     <tr>
-      <td align="center" colspan="3"><a href="https://github.com/Supravisor/Relational_databases_1">Relational databases</a></td>
+      <td align="center" colspan="2"><a href="https://github.com/Supravisor/Relational_databases_1">Relational databases</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/Parse_HTML_table">Parse HTML table</a></td>
     </tr>
   </tbody>
 </table>
@@ -60,7 +61,7 @@
 
 ## Current project
 
-* [Parse HTML table](https://github.com/Supravisor/Parse_HTML_table)
+* [TensorFlow 1](https://github.com/Supravisor/TensorFlow_1)
 
 ## Skills
 
