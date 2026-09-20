@@ -46,6 +46,9 @@
       <td align="center" colspan="2"><a href="https://github.com/Supravisor/Relational_databases_1">Relational databases</a></td>
       <td align="center"><a href="https://github.com/Supravisor/Parse_HTML_table">Parse HTML table</a></td>
     </tr>
+    <tr>
+      <td align="center" colspan="3"><a href="https://github.com/Supravisor/TensorFlow_1">TensorFlow 1</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -61,7 +64,7 @@
 
 ## Current project
 
-* [TensorFlow 1](https://github.com/Supravisor/TensorFlow_1)
+* [TensorFlow 2](https://github.com/Supravisor/TensorFlow_2)
 
 ## Skills
 
