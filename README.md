@@ -74,17 +74,16 @@
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/html-5.svg" />
+      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/skills/html-5.svg" />
     </td>
     <td>
 HyperText Markup Language
     </td>
   </tr>
 
-
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/css-3.svg" />
+      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/skills/css-3.svg" />
     </td>
     <td>
 Cascading Style Sheets
@@ -93,7 +92,7 @@ Cascading Style Sheets
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/javascript-logo.svg" />
+      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/skills/javascript.svg" />
     </td>
     <td>
 JavaScript
@@ -102,7 +101,7 @@ JavaScript
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/react.svg" />
+      <img width="75px" height="75px" src="https://github.com/Supravisor/Portfolio/blob/main/images/skills/react.svg" />
     </td>
     <td>
 React
