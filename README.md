@@ -128,7 +128,7 @@ Python
       <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/deploy/images/skills/nodejsStackedBlack.svg" alt="Node logo" />
     </td>
     <td>
-Python
+Node
     </td>
   </tr>
 
