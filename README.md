@@ -140,7 +140,7 @@ Node
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/main/images/skills/tools/git/black.svg" alt="Git logo" />
+      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/main/images/skills/tools/Git/red.svg" alt="Git logo" />
     </td>
     <td>
 Git
