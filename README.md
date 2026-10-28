@@ -116,19 +116,19 @@ React
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/main/images/skills/python-logo-only.svg" alt="Python logo" />
+      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/deploy/images/skills/nodejsStackedBlack.svg" alt="Node logo" />
     </td>
     <td>
-Python
+Node.js
     </td>
   </tr>
 
   <tr>
     <td>
-      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/deploy/images/skills/nodejsStackedBlack.svg" alt="Node logo" />
+      <img width="75px" height="75px" src="https://raw.githubusercontent.com/Supravisor/Portfolio/refs/heads/main/images/skills/python-logo-only.svg" alt="Python logo" />
     </td>
     <td>
-Node
+Python
     </td>
   </tr>
 
