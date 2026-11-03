@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Supravisor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supravisor)](https://github.com/Supravisor/github-readme-stats)
-
-[![Supravisor's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supravisor)](https://github.com/Supravisor/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Supravisor&show_icons=true)
+<br /><br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Supravisor&layout=compact)
 
 ## Projects
 
