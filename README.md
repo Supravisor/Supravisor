@@ -47,7 +47,8 @@
       <td align="center"><a href="https://github.com/Supravisor/Parse_HTML_table">Parse HTML table</a></td>
     </tr>
     <tr>
-      <td align="center" colspan="3"><a href="https://github.com/Supravisor/TensorFlow_1">TensorFlow 1</a></td>
+      <td align="center" colspan="2"><a href="https://github.com/Supravisor/TensorFlow_1">TensorFlow 1</a></td>
+      <td align="center"><a href="https://github.com/Supravisor/TensorFlow_2">TensorFlow 2</a></td>
     </tr>
   </tbody>
 </table>
@@ -64,7 +65,7 @@
 
 ## Current project
 
-* [TensorFlow 2](https://github.com/Supravisor/TensorFlow_2)
+* [Candy Crusher](https://github.com/Supravisor/Candy_Crusher)
 
 ## Skills
 
